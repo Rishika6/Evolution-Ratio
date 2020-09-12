@@ -1,0 +1,21 @@
+.part1 {
+    float: left;
+    
+}
+body {
+    background-image: url('../assets/discoverybackground.jpg');
+}
+.one{
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+.two{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+p{
+    font-size: larger;
+    font-weight: 600;
+}
