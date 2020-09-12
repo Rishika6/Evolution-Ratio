@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+.theo1{
+    background-color: crimson;
+    float: left;
+    color: black;
+    width:700px;
+    border-radius: 10px;
+    font-size: larger;
+}
+img{
+    width: 540px;
+    float: right;
+    height:300px;
+    border-radius: 10px;
+}
+.theo2{
+    background-color: yellow;
+    color: black;
+    float: left;
+    border-radius: 10px;
+    font-size: larger;
+}
