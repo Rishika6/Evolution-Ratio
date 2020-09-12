@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.flora{
+    float: left;
+    width:585px;
+    background-color: yellow;
+    color: black;
+    font-size: larger;
+    border-radius: 20px;
+}
+img{
+    width:250px;
+    height: 200px;
+    border: 2px solid blue;
+}
+
+.fauna{
+    background-color: green;
+    color: white;
+    float: right;
+    width: 580px;
+    font-size: larger;
+    border-radius: 20px;
+
+}
