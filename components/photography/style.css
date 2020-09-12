@@ -1,0 +1,25 @@
+body{
+    background-color:black
+}
+.theo1{
+
+    
+    color: cornsilk;
+    font-size: larger;
+    float: left;
+    width: 400px;
+}
+
+img{
+    width: 300px;
+    border-radius: 150px;
+    height: 300px;
+
+}
+h3{
+    color: orange;
+}
+.theo2{
+    color:cornsilk;
+    font-size: larger;
+}
